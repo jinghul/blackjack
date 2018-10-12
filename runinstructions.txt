@@ -1,0 +1,3 @@
+Start instructions:
+1. In the parent directory, *outside the source folder*, run the command: javac source/*.java
+2. Run the command: java source/App
