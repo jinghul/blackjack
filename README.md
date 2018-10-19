@@ -1,2 +1,4 @@
 # Blackjack
-The blackjack assigment for CS591 D1 - Java Object Oriented Programming
+A casino simulation with two attached games:
+1. Blackjack
+2. Trianta Ena
